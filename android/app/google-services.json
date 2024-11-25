@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "374467938493",
+    "project_id": "naveensocailapp",
+    "storage_bucket": "naveensocailapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374467938493:android:5d4ac1737c2166fdc74fd4",
+        "android_client_info": {
+          "package_name": "com.example.inter_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfyyS5-spQzR9c-yDyewRlUllER8LLht8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
